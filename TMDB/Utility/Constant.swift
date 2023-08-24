@@ -14,7 +14,7 @@ struct Constants {
     
     // Keys
     struct Keys {
-        static let TOKEN = "..."  // JWT token used for authentication
+        static let TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4MzI5NjVlYzNmZDM0Njc2NTRiMmFmZGNjMDUxZGM2YyIsInN1YiI6IjY0ZTRiZDVmMDZmOTg0MDE0ZTY2YjgxOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.XOdLe3zdet3o-9v6K7nQuUGk8ySwiW19fp14JTxFwAs"  // JWT token used for authentication
     }
         
     // Request Headers
